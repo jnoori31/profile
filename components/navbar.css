@@ -1,0 +1,6 @@
+.navbarmain {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  background-color: greenyellow;
+}
